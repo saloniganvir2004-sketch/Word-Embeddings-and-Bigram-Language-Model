@@ -51,3 +51,19 @@ Word-Embeddings-and-Bigram-Language-Model/
 4. Examine the calculated bigram probabilities.
 5. Enter a word to test next-word prediction.
 
+
+## Additional Implementation
+
+### Skip-Gram and Bigram Language Model
+
+An additional implementation demonstrating:
+
+- Skip-Gram word embedding generation.
+- Context-window generation.
+- Softmax and cross-entropy loss.
+- Gradient descent-based training.
+- Bigram frequency calculation.
+- Conditional next-word prediction.
+
+Notebook: `Skip_Gram_and_Bigram_Language_Model.ipynb`
+
